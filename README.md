@@ -1,1 +1,1 @@
-# Cricket-Score-Board-
+This C program manages details of batsmen and bowlers using linked lists. It allows users to input information such as runs scored/given, balls faced/bowled, and other relevant statistics for each player. Users can then view the details of batsmen and bowlers separately. The program utilizes linked lists to dynamically store and manage player data.
